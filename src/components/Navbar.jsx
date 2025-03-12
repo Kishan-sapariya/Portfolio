@@ -49,7 +49,7 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="https://drive.google.com/file/d/1tCVF_cpCmob4-Whl8D_XNp3UdgLstpFI/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1z17tHjM46-iWOIp1f2YrhvB4y47GYsCK/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-cyan-400 text-black px-4 py-2 rounded-lg hover:bg-cyan-500 transition-colors"
@@ -113,7 +113,7 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="https://drive.google.com/file/d/1tCVF_cpCmob4-Whl8D_XNp3UdgLstpFI/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1z17tHjM46-iWOIp1f2YrhvB4y47GYsCK/view?usp=sharing"
               target="_blank"
               className="bg-cyan-400 text-black px-4 py-2 rounded-lg hover:bg-cyan-500 transition-colors text-center"
             >
